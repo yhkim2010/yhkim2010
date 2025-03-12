@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+kim yeon ho
+대구과학고등학교
+
 <!--
 **yhkim2010/yhkim2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
